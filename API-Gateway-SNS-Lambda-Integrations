@@ -35,6 +35,7 @@ Your subscription should now be in the Confirmed state:
 
 
 
+
 Stage 2 - Create the Lambda
 Head to the Lambda console: https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions
 
