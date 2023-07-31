@@ -46,9 +46,10 @@ You will receive a confirmation email shortly after, with a link you need to cli
 Side note: While writing this, my confirmation went to Spam in Gmail, so don’t forget to check there.
 
 Your subscription should now be in the Confirmed state:
+![Untitled 1](https://github.com/Sai-venkata-emmidesetty/API-GATEWAY/assets/141021513/d669859f-2835-48fc-b205-9f39ce5abaf5)
 
 
-Untitled
+
 
 Stage 2 - Create the Lambda
 Head to the Lambda console: https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions
