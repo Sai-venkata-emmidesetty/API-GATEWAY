@@ -47,6 +47,7 @@ Side note: While writing this, my confirmation went to Spam in Gmail, so don’t
 
 Your subscription should now be in the Confirmed state:
 
+
 Untitled
 
 Stage 2 - Create the Lambda
